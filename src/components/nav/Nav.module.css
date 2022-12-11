@@ -1,0 +1,8 @@
+.nav {
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    width: 90vw;
+    background-color: rgb(10, 187, 187);
+    height: 80px;
+  }

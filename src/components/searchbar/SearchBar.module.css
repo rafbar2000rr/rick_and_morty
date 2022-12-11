@@ -1,0 +1,9 @@
+.searchbar {
+    display: flex;
+    justify-content: right;
+    align-items:center;
+    width:max-content;
+    height:6ev;
+    background-color: rgb(0, 68, 255);
+    position:relative
+  }

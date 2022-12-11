@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(168, 135, 222);
+}
+
+
+.card {
+    background-color: #36f406cb;
+    border: solid #b7d606;
+    font-family: rick_and_morty;
+    width: 25em;
+    height: 32em;
+    border-radius: 2em;
+    overflow: hidden;
+    margin: 2em;
+    position:relative;
+    box-shadow: 0 0 10px rgba(86, 82, 82, 0.8);
+  }
+
+  
+
+  
